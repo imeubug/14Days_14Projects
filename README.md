@@ -16,4 +16,4 @@ These rules are from the original 100days 100 projects challenge with a bit of a
 
 | Day | Name | Description | Repository |
 |:--:|:-----:|:----:|:--:|
-| 0 | TicTacToe | Create a tic tac toe game | https://github.com/bugxvii/react-tictactoe |
+| 1 | TicTacToe | Create a tic tac toe game | https://github.com/bugxvii/react-tictactoe |
