@@ -20,3 +20,4 @@ These rules are from the original 100days 100 projects challenge with a bit of a
 | 2 | Bin2Dec | Create a base2 to base10 converter | https://github.com/bugxvii/react-bin2dec |
 | 3 | Bit Masks | Bit masks simulator (AND, OR, XOR) | https://github.com/bugxvii/bitmask-simulator |
 | 4 | Calculator | Web based Calculator | https://github.com/bugxvii/react-calculator |
+| 5 | Color Cycle | Cycle a color value through incremental changes | https://github.com/bugxvii/react-colorcycle |
