@@ -24,3 +24,4 @@ These rules are from the original 100days 100 projects challenge with a bit of a
 | 6 | Clock | Display the current time | https://github.com/bugxvii/react-clock |
 | 7 | Count Down | Count down timer | https://github.com/bugxvii/react-countdown |
 | 8 | GitHub Status | Display the GitHub Status | https://github.com/bugxvii/react-ghstatus |
+| 9 | Christmas Lights | Simulate a string of X-Mas Lights | https://github.com/bugxvii/christmas-lights |
