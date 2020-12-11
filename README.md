@@ -25,3 +25,5 @@ These rules are from the original 100days 100 projects challenge with a bit of a
 | 7 | Count Down | Count down timer | https://github.com/bugxvii/react-countdown |
 | 8 | GitHub Status | Display the GitHub Status | https://github.com/bugxvii/react-ghstatus |
 | 9 | Christmas Lights | Simulate a string of X-Mas Lights | https://github.com/bugxvii/christmas-lights |
+| 11 | Random Pokemon Generator | Generate and display a pokemon | https://github.com/bugxvii/react-random-pokemon |
+| 12 | Border Radius Previewer | Preview how CSS3 border-radius values affect an element | https://github.com/bugxvii/border-radius-previewer |
