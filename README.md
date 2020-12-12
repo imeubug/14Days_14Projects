@@ -28,3 +28,4 @@ These rules are from the original 100days 100 projects challenge with a bit of a
 | 11 | Random Pokemon Generator | Generate and display a pokemon | https://github.com/bugxvii/react-random-pokemon |
 | 12 | Border Radius Previewer | Preview how CSS3 border-radius values affect an element | https://github.com/bugxvii/border-radius-previewer |
 | 13 | Dollars to Cents | Convert dollars to cents | https://github.com/bugxvii/dollars-to-cents |
+| 14 | Multiplication Game | One digit multiplication game | https://github.com/bugxvii/vue-gugudan |
