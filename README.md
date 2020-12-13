@@ -1,4 +1,4 @@
-# 1 Day 1 Project Challenge
+# 14 Days 14 Projects Challenge
 
 Inspired by [Florin Pop](https://github.com/florinpop17)'s [100 days 100 projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/).
 
