@@ -2,9 +2,6 @@
 
 Inspired by [Florin Pop](https://github.com/florinpop17)'s [100 days 100 projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/).
 
-#### Nov 29, 2020
-This is like a trial for me. I don't know how long I'll be able to keep up with this challenge, but my goal for now is 7 days 7 projects.
-
 ## Rules
 These rules are from the original 100days 100 projects challenge with a bit of a tweak.
 
@@ -25,7 +22,13 @@ These rules are from the original 100days 100 projects challenge with a bit of a
 | 7 | Count Down | Count down timer | https://github.com/bugxvii/react-countdown |
 | 8 | GitHub Status | Display the GitHub Status | https://github.com/bugxvii/react-ghstatus |
 | 9 | Christmas Lights | Simulate a string of X-Mas Lights | https://github.com/bugxvii/christmas-lights |
+| 10 | ---- | ---- |
 | 11 | Random Pokemon Generator | Generate and display a pokemon | https://github.com/bugxvii/react-random-pokemon |
 | 12 | Border Radius Previewer | Preview how CSS3 border-radius values affect an element | https://github.com/bugxvii/border-radius-previewer |
 | 13 | Dollars to Cents | Convert dollars to cents | https://github.com/bugxvii/dollars-to-cents |
 | 14 | Multiplication Game | One digit multiplication game | https://github.com/bugxvii/vue-gugudan |
+
+#### Note
+- (12-13-2020) 14 projects finished! (well acutally 13 since I failed to do one on the 10th day...)
+- (12-05-2020) 7日間プロジェクト7個できか。簡単なのももちろんあるけど、でもできた。
+- (11-29-2020) This is like a trial for me. I don't know how long I'll be able to keep up with this challenge, but my goal for now is 7 days 7 projects.
